@@ -21,6 +21,6 @@ Welcome to **Buy Me a Coffee** — a sleek, modern, and fast donation page for c
 
 ## 📸 Preview
 
-![Preview](https://your-screenshot-url.com/preview.png)
+![Preview](https://github.com/lucasmarujo/buymeacoffee/blob/master/src/assets/preview.png)
 
 ---
