@@ -8,27 +8,26 @@ const Index = () => {
   // Sample project data - replace with actual GitHub projects
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Full-stack e-commerce solution with React, Node.js, and PostgreSQL. Features include user authentication, payment processing, and admin dashboard.",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
-      githubUrl: "https://github.com/yourusername/ecommerce-platform",
-      demoUrl: "https://demo-ecommerce.com",
-      stars: 234
+      title: "AI Chatbot in web",
+      description: "A serverless responsive AI web chatbot hosted on Vercel with models from GitHubModels developed with TypeScript.",
+      technologies: ["React", "Typescript", "LLM's", "Vercel"],
+      githubUrl: "https://github.com/lucasmarujo/ai-chatbot-web",
+      demoUrl: "https://ai-chatbot-web-lemon.vercel.app/",
+      stars: 0
     },
     {
       title: "Task Management App",
-      description: "Collaborative task management application with real-time updates, team workspaces, and project tracking capabilities.",
-      technologies: ["TypeScript", "React", "Socket.io", "MongoDB"],
-      githubUrl: "https://github.com/yourusername/task-manager",
-      demoUrl: "https://task-app-demo.com",
-      stars: 189
+      description: "CRUD ops with Python (Django) + Mysql.",
+      technologies: ["Python", "Django", "Mysql"],
+      githubUrl: "https://github.com/lucasmarujo/todoapp-django",
+      stars: 0
     },
     {
-      title: "API Gateway Service",
-      description: "Microservices API gateway with load balancing, rate limiting, and authentication. Built for scalable cloud architecture.",
-      technologies: ["Node.js", "Docker", "Redis", "AWS"],
-      githubUrl: "https://github.com/yourusername/api-gateway",
-      stars: 156
+      title: "Chatbot agent in whatsapp with JS",
+      description: "For messages, images & audios.",
+      technologies: ["Node.js", "WhatsappWebJS", "Javascript"],
+      githubUrl: "https://github.com/lucasmarujo/whatsapp-chatbot-t",
+      stars: 0
     },
     {
       title: "Mobile Finance App",
